@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/Maps/Gameplay.umap",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/MCRunner.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/BP_MC.uasset"
+			]
+		}
+	]
+}

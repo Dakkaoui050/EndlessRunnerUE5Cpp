@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NoEndRunner",
+			"Path": "..\\Source\\NoEndRunner.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NoEndRunnerEditor",
+			"Path": "..\\Source\\NoEndRunnerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

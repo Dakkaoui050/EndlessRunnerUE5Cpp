@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NoEndRunner.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NoEndRunner.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NoEndRunnerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NoEndRunner">
+      <UniqueIdentifier>{D87FE775-CA22-3DFF-90B8-CFC91613809F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NoEndRunner\NoEndRunner.Build.cs">
+      <Filter>Source\NoEndRunner</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NoEndRunner\NoEndRunner.cpp">
+      <Filter>Source\NoEndRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoEndRunner\NoEndRunner.h">
+      <Filter>Source\NoEndRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NoEndRunner\NoEndRunnerCharacter.cpp">
+      <Filter>Source\NoEndRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoEndRunner\NoEndRunnerCharacter.h">
+      <Filter>Source\NoEndRunner</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NoEndRunner\NoEndRunnerGameMode.cpp">
+      <Filter>Source\NoEndRunner</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoEndRunner\NoEndRunnerGameMode.h">
+      <Filter>Source\NoEndRunner</Filter>
+    </ClInclude>
+    <Filter Include="Source\NoEndRunner\Private">
+      <UniqueIdentifier>{709256ED-3D4D-3AFC-85A0-C31EA089BF00}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NoEndRunner\Private\RunnerCharacter.cpp">
+      <Filter>Source\NoEndRunner\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\NoEndRunner\Public">
+      <UniqueIdentifier>{9CD42D20-DA5A-3530-B735-8867986FCBC2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\NoEndRunner\Public\RunnerCharacter.h">
+      <Filter>Source\NoEndRunner\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
