@@ -7,12 +7,25 @@
 			"files": [
 				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/Maps/Gameplay.umap",
-				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
 				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/MCRunner.uasset",
 				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner.uasset",
-				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/BP_MC.uasset"
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/BP_MC.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/BP_spikes.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/BP_obstacals.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/Levels/BP_level1.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/Levels/BP_level2.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/Levels/BP_level3.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/Levels/BP_level4.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/Levels/BP_level5.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/Levels/BP_level6.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/Levels/BP_level7.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/Levels/BP_level8.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/Levels/NewBlueprint.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/Levels/BP_level9.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/MCRunner/bp/Levels/BP_levels.uasset",
+				"C:/Users/Driss/Documents/GitHub/EndlessRunnerUE5Cpp/NoEndRunner/Content/ThirdPerson/Input/Actions/IA_Look.uasset"
 			]
 		}
 	]

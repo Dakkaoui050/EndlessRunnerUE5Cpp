@@ -57,19 +57,43 @@
     <Filter Include="Source\NoEndRunner\Private">
       <UniqueIdentifier>{709256ED-3D4D-3AFC-85A0-C31EA089BF00}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\NoEndRunner\Private\Baselvl.cpp">
+      <Filter>Source\NoEndRunner\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\NoEndRunner\Private\MCRunner.cpp">
+      <Filter>Source\NoEndRunner\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NoEndRunner\Private\obstacle.cpp">
       <Filter>Source\NoEndRunner\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\NoEndRunner\Private\RunnerCharacter.cpp">
       <Filter>Source\NoEndRunner\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\NoEndRunner\Private\SpawnLevel.cpp">
+      <Filter>Source\NoEndRunner\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NoEndRunner\Private\spikes.cpp">
+      <Filter>Source\NoEndRunner\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\NoEndRunner\Public">
       <UniqueIdentifier>{9CD42D20-DA5A-3530-B735-8867986FCBC2}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\NoEndRunner\Public\Baselvl.h">
+      <Filter>Source\NoEndRunner\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\NoEndRunner\Public\MCRunner.h">
       <Filter>Source\NoEndRunner\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\NoEndRunner\Public\obstacle.h">
+      <Filter>Source\NoEndRunner\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\NoEndRunner\Public\RunnerCharacter.h">
+      <Filter>Source\NoEndRunner\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NoEndRunner\Public\SpawnLevel.h">
+      <Filter>Source\NoEndRunner\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NoEndRunner\Public\spikes.h">
       <Filter>Source\NoEndRunner\Public</Filter>
     </ClInclude>
   </ItemGroup>
