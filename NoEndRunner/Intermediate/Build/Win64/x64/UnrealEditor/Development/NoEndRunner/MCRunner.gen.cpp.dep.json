@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dakka\\onedrive\\documenten\\github\\endlessrunnerue5cpp\\noendrunner\\intermediate\\build\\win64\\unrealeditor\\inc\\noendrunner\\uht\\mcrunner.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dakka\\onedrive\\documenten\\github\\endlessrunnerue5cpp\\noendrunner\\intermediate\\build\\win64\\x64\\noendrunnereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dakka\\onedrive\\documenten\\github\\endlessrunnerue5cpp\\noendrunner\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\noendrunner\\definitions.noendrunner.h",
+            "c:\\users\\dakka\\onedrive\\documenten\\github\\endlessrunnerue5cpp\\noendrunner\\source\\noendrunner\\public\\mcrunner.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\dakka\\onedrive\\documenten\\github\\endlessrunnerue5cpp\\noendrunner\\intermediate\\build\\win64\\unrealeditor\\inc\\noendrunner\\uht\\mcrunner.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
