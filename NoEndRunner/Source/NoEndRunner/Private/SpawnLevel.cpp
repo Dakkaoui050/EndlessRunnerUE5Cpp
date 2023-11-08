@@ -88,7 +88,7 @@ void ASpawnLevel::Spawnlevel(bool IsFirst)
 	}
 
 	// If a new level is successfully spawned, attach an overlap event listener
-	if (NewLvl)
+	if (NewLvl != null)
 	{
 		if (NewLvl->GetTrigger())
 		{
